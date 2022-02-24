@@ -1,0 +1,25 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelLeo129/proyecto1-base-de-datos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelLeo129/proyecto1-base-de-datos/issues"
+  },
+  "homepage": "https://github.com/AxelLeo129/proyecto1-base-de-datos#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fast-csv": "^4.3.6",
+    "pg": "^8.7.3"
+  }
+}
